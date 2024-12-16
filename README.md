@@ -34,7 +34,7 @@ Beginner Level (1-30)
 28. Command Injection
 29. Password Hash Cracking with Hashcat
 30. Setup CTF Challenge
-31. d
+
 
 
 Intermediate Level
